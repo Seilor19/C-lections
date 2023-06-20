@@ -1,4 +1,3 @@
-﻿Console.WriteLine("Input name ");
-string username = Console.ReadLine();
-Console.WriteLine("Hello, !");
-console.WriteLine(username);
+﻿console.WriteLine("Input name ");
+string username = console.readline();
+console.WriteLine("Hello, ");
